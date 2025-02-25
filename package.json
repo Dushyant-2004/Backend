@@ -1,0 +1,23 @@
+{
+<<<<<<< HEAD
+  "name": "ejsdir",
+=======
+  "name": "rest_class",
+>>>>>>> 6b9022f (Quora Post)
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+<<<<<<< HEAD
+  "keywords": [],
+=======
+>>>>>>> 6b9022f (Quora Post)
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
